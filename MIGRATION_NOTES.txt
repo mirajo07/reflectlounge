@@ -1,0 +1,7 @@
+Reflect Lounge static migration
+Published posts: 60
+Published pages: 4
+Local media files included: 51
+Unresolved original image paths: 0
+Known limitations: Elementor layouts, forms, WordPress comments, plugins and search are not migrated as functioning services.
+Missing paths:
